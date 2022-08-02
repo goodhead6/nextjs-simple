@@ -32,7 +32,7 @@ export default function Home() {
                             <Button text="Search this"></Button>
                             <Button text="Howdy hey"></Button>
                         </div>
-                        <div className={styles.searchDesc}>Done by Good Head</div>
+                        <div className={styles.searchDesc}>Done by &nbsp;<a href="https://github.com/goodhead6">Good Head</a></div>
                     </div>
                 </div>
             </main>
